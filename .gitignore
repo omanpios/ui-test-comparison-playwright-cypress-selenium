@@ -1,0 +1,13 @@
+
+# Playwright
+node_modules/
+/playwright/test-results/
+/test-results/
+/playwright/playwright-report/
+/playwright-report/
+/playwright/blob-report/
+/playwright/playwright/.cache/
+
+# Cypress
+/cypress/cypress/screenshots/
+/cypress/cypress/videos/
